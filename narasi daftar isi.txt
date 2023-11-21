@@ -1,0 +1,9 @@
+1. siapkan dokumen/laporan/skripsi yang akan kita buatkan daftar isi, daftar gambar, dan daftar tabelnya. dan semuanya harus berada dalam satu file.
+
+2. set Heading 1 untuk judul BAB, Heading 2 untuk Sub-Bab, Heading 3 untuk Sub Sub-BAB, dst
+
+3. buat kan caption untuk setiap gambar dan tabel yang ada. 
+
+4.  buatkan penomoran yang sesuai.
+
+5. setelah itu barulah kita buatkan daftar gamabr, kemudian daftar tabel, dan yng terakhir daftar isinya.

@@ -1,0 +1,8 @@
+angka INT 
+
+a = 10;
+a++ => 11
+a++ ----> a = a + 1 = 11
+
+ memahami tentang raptor 
+ 
